@@ -7,7 +7,7 @@
     { "count": 2 }
   ],
   "discounts": [
-    { "percentage": 20, "productId": "0" },
-    { "percentage": 15, "productId": "1" }
+    { "percentage": 20, "productId": "ID0" },
+    { "percentage": 15, "productId": "ID1" }
   ]
 }
