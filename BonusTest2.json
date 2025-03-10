@@ -9,7 +9,7 @@
     { "count": 2 }
   ],
   "discounts": [
-    { "percentage": 20, "productId": 0 },
-    { "percentage": 15, "productId": 1 }
+    { "percentage": 20, "productID": 0 },
+    { "percentage": 15, "productID": 1 }
   ]
 }
