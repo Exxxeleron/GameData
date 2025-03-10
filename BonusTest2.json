@@ -3,8 +3,7 @@
   "dueDate": "2025-03-30",
   "interval": "0",
   "hints": [
-    { "count": 3 },
-    { "count": 5 }
+    { "count": 0 }
   ],
   "skips": [
     { "count": 2 }
