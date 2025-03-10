@@ -1,4 +1,7 @@
 {
+  "version": "1.0.0",
+  "dueDate": "2025-03-30",
+  "interval": "0",
   "hints": [
     { "count": 3 },
     { "count": 5 }
@@ -7,7 +10,7 @@
     { "count": 2 }
   ],
   "discounts": [
-    { "percentage": 20, "productId": "ID0" },
-    { "percentage": 15, "productId": "ID1" }
+    { "percentage": 20, "productId": "0" },
+    { "percentage": 15, "productId": "1" }
   ]
 }
