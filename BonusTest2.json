@@ -1,13 +1,9 @@
 {
   "version": "1.0.0",
-  "dueDate": "2025-03-30",
+  "dueDatestring": "2025-03-30",
   "interval": "0",
-  "hints": [
-    { "count": 0 }
-  ],
-  "skips": [
-    { "count": 2 }
-  ],
+  "hints": 1,
+  "skips": 2,
   "discounts": [
     { "percentage": 20, "productID": 0 },
     { "percentage": 15, "productID": 1 }
