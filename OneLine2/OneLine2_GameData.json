@@ -4,8 +4,14 @@
   "interval": "1",
   "hints": 0,
   "skips": 2,
-  "discounts": [
-    { "percentage": 20, "productID": 3 },
-    { "percentage": 15, "productID": 4 }
+  "products": [
+    { "productID": 0, "originalPrice": 199, "discountedPrice": 199},
+    { "productID": 1, "originalPrice": 150, "discountedPrice": 150},
+    { "productID": 2, "originalPrice": 100, "discountedPrice": 100},
+    { "productID": 3, "originalPrice": 160, "discountedPrice": 160},
+    { "productID": 4, "originalPrice": 25, "discountedPrice": 25},
+    { "productID": 5, "originalPrice": 25, "discountedPrice": 25},
+    { "productID": 6, "originalPrice": 50, "discountedPrice": 50},
+    { "productID": 7, "originalPrice": 50, "discountedPrice": 50}
   ]
 }
