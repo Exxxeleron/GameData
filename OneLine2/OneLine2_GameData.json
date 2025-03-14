@@ -2,8 +2,8 @@
   "version": "1.0.1",
   "dueDatestring": "2025-03-10",
   "interval": "1",
-  "hints": 0,
-  "skips": 2,
+  "hints": 2,
+  "skips": 0,
   "products": [
     { "productID": 0, "originalPrice": 199, "discountedPrice": 100},
     { "productID": 1, "originalPrice": 150, "discountedPrice": 100},
