@@ -13,6 +13,6 @@
     { "productID": 5, "originalPrice": 25, "discountedPrice": 25},
     { "productID": 6, "originalPrice": 50, "discountedPrice": 50},
     { "productID": 7, "originalPrice": 50, "discountedPrice": 50}
-  ]
-  "IsOff": "false"
+  ],
+  "IsOff": false
 }
