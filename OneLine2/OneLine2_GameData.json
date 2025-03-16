@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
-  "dueDatestring": "2024-02-10",
+  "version": "1.0.2",
+  "dueDatestring": "2024-05-10",
   "interval": "30",
   "hints": 2,
-  "skips": 0,
+  "skips": 2,
   "products": [
-    { "productID": 0, "originalPrice": 199, "discountedPrice": 199},
-    { "productID": 1, "originalPrice": 150, "discountedPrice": 150},
+    { "productID": 0, "originalPrice": 99, "discountedPrice": 99},
+    { "productID": 1, "originalPrice": 150, "discountedPrice": 100},
     { "productID": 2, "originalPrice": 100, "discountedPrice": 100},
     { "productID": 3, "originalPrice": 160, "discountedPrice": 160},
     { "productID": 4, "originalPrice": 25, "discountedPrice": 25},
