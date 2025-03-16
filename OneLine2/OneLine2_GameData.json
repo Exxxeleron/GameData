@@ -5,8 +5,8 @@
   "hints": 10,
   "skips": 10,
   "products": [
-    { "productID": 0, "originalPrice": 230, "discountedPrice": 199},
-    { "productID": 1, "originalPrice": 200, "discountedPrice": 150},
+    { "productID": 0, "originalPrice": 199, "discountedPrice": 199},
+    { "productID": 1, "originalPrice": 150, "discountedPrice": 150},
     { "productID": 2, "originalPrice": 100, "discountedPrice": 100},
     { "productID": 3, "originalPrice": 160, "discountedPrice": 160},
     { "productID": 4, "originalPrice": 25, "discountedPrice": 25},
