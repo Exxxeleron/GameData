@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
-  "dueDatestring": "2025-05-01",
+  "PromoNumber": "1.0.6",
+  "PromoEnd_date": "2025-05-01",
   "interval": "30",
-  "hints": 1,
-  "skips": 1,
+  "HintsCount": 1,
+  "SkipsCount": 1,
   "products": [
     { "productID": 0, "originalPrice": 399, "discountedPrice": 199},
     { "productID": 1, "originalPrice": 300, "discountedPrice": 150},
