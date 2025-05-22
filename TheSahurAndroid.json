@@ -1,15 +1,15 @@
 {
-   "show":false,
+   "show":true,
    "imgurl":"https://raw.githubusercontent.com/smaeryleric/bsimdata/main/a4%20ico_.png",
    "banners":[
       {
          "show":true,
          "imgurl":"https://raw.githubusercontent.com/smaeryleric/bsimdata/main/a4%20ico_.png",
-         "url":"https://play.google.com/store/apps/details?id=com.mobicone.a4chat",
-         "title":"А4 ЧАТ: Переписка с Владом"
+         "url":"https://play.google.com/store/apps/details?id=com.simapp.spritbr",
+         "title":"Italian Brainrot Box Beats"
       },
       {
-         "show":true,
+         "show":false,
          "imgurl":"https://raw.githubusercontent.com/smaeryleric/bsimdata/main/a4%20ico_.png",
          "url":"https://play.google.com/store/apps/details?id=com.mobicone.a4chat",
          "title":"А4 ЧАТ: Переписка с Владом"
